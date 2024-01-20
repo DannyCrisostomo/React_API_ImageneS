@@ -35,7 +35,7 @@ El Buscador de Imágenes permite a los usuarios buscar imágenes por palabras cl
 ```
    
 
-4. **Ejecuta la aplicación:**
+3. **Ejecuta la aplicación:**
 
    ```bash
    npm start
