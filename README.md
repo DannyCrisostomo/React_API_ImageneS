@@ -14,23 +14,11 @@ El Buscador de Imágenes permite a los usuarios buscar imágenes por palabras cl
    git clone https://github.com/DannyCrisostomo/React_API_Imagenes.git
    ```
 
-2. **Instala las dependencias:**
-
-   ```bash
-   cd frontend
-   npm install
-   ```
-
-   ```bash
-   cd backend
-   npm install
-   ```
-
-3. **Configuración de la API de Pixabay:**
+2. **Configuración de la API de Pixabay:**
 
    Obtén tu clave de API en [Pixabay](https://pixabay.com/api/docs/) y configúrala en `backend/config.js`.
 
-4. **Ejecuta la aplicación:**
+3. **Ejecuta la aplicación:**
 
    ```bash
    npm start
