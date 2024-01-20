@@ -57,7 +57,7 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
 ## Autor 👤
 
-- Tu Nombre (DannyCrisostomo@gmail.com>)
+- Tu Nombre (<DannyCrisostomo@gmail.com>)
 
 ---
 
