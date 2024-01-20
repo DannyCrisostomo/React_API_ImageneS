@@ -57,11 +57,8 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
 ## Autor 👤
 
-- Tu Nombre (<tuemail@gmail.com>)
+- Tu Nombre (DannyCrisostomo@gmail.com>)
 
 ---
 
 **¡Esperamos que disfrutes usando el Buscador de Imágenes!**
-```
-
-Asegúrate de personalizar la información del autor y considera agregar capturas de pantalla reales de tu aplicación en funcionamiento en la sección correspondiente. ¡Espero que te sea útil!
