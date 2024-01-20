@@ -6,7 +6,9 @@ Este proyecto es un buscador de imágenes desarrollado con React  con Node y la 
 
 El Buscador de Imágenes permite a los usuarios buscar imágenes por palabras clave y explorar los resultados de manera paginada.
 
-## Captura de Pantalla 📸 
+## Vista Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://meek-melba-a34c38.netlify.app/).
 
 ![Captura de Pantalla](https://github.com/DannyCrisostomo/React_API_Imagenes/blob/a0b29fc32462935fef07a28637c94c017f7ad9bd/img/pixabay.png)
 
