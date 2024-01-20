@@ -1,71 +1,60 @@
-# Getting Started with Create React App
+# Proyecto Buscador de Imágenes en React y Node
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es un buscador de imágenes desarrollado con React para el frontend y Node para la comunicación con la API de Pixabay.
 
-## Available Scripts
+## Descripción del Proyecto
 
-In the project directory, you can run:
+El Buscador de Imágenes permite a los usuarios buscar imágenes por palabras clave y explorar los resultados de manera paginada.
 
-### `npm start`
+## Instalación
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Clona el repositorio:**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   ```bash
+   git clone https://github.com/DannyCrisostomo/React_API_Imagenes.git
+   ```
 
-### `npm test`
+2. **Instala las dependencias:**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   cd frontend
+   npm install
 
-### `npm run build`
+   cd backend
+   npm install
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+3. **Configuración de la API de Pixabay:**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   Obtén tu clave de API en [Pixabay](https://pixabay.com/api/docs/) y configúrala en `backend/config.js`.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4. **Ejecuta la aplicación:**
 
-### `npm run eject`
+   ```bash
+   npm start
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Uso
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Accede a `http://localhost:3000` en tu navegador.**
+2. **Ingresa palabras clave en el buscador y presiona "Buscar".**
+3. **Explora las imágenes y haz clic para ver detalles.**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contribución
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+¡Contribuciones son bienvenidas! Por favor, sigue las instrucciones del README para contribuir.
 
-## Learn More
+## Licencia
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Autor
 
-### Code Splitting
+- Tu Nombre (<tuemail@gmail.com>)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+**¡Esperamos que disfrutes usando el Buscador de Imágenes!**
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# React_API_Imagenes
+Recuerda personalizar la información del autor y considera agregar capturas de pantalla reales de tu aplicación en funcionamiento en la sección correspondiente. ¡Espero que te sea útil!
