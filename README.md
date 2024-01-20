@@ -6,6 +6,11 @@ Este proyecto es un buscador de imágenes desarrollado con React  con Node y la 
 
 El Buscador de Imágenes permite a los usuarios buscar imágenes por palabras clave y explorar los resultados de manera paginada.
 
+## <i class="fas fa-camera"></i> Captura de Pantalla
+
+![Captura de Pantalla](images/captura-pantalla.png)
+
+
 ## Instalación 🛠️
 
 1. **Clona el repositorio:**
