@@ -16,9 +16,26 @@ El Buscador de Imágenes permite a los usuarios buscar imágenes por palabras cl
 
 2. **Configuración de la API de Pixabay:**
 
-   Obtén tu clave de API en [Pixabay](https://pixabay.com/api/docs/) y configúrala en `backend/config.js`.
+   Obtén tu clave de API en [Pixabay](https://pixabay.com/api/docs/) y configúrala en `config.js
 
-3. **Ejecuta la aplicación:**
+consultarApi = () => {
+    const pagina = this.state.pagina
+    const cantidad_imagenes = 30;
+    const termino = this.state.termino;
+    const url = `https://pixabay.com/api/?key=41898943-e54d7904b9dc143b4b3cbce98&q=${termino}&per_page=${cantidad_imagenes}&page=${pagina}`;
+
+    fetch(url)
+      .then(respuesta => respuesta.json())
+      .then(resultado => this.setState({ imagenes: resultado.hits })
+
+        // this.setState({imagenes:resultado.hits})
+
+        // console.log(resultado.hits)
+      )
+      
+   `.
+
+4. **Ejecuta la aplicación:**
 
    ```bash
    npm start
