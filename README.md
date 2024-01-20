@@ -1,6 +1,6 @@
 # Proyecto Buscador de Imágenes en React y Node
 
-Este proyecto es un buscador de imágenes desarrollado con React para el frontend y Node para la comunicación con la API de Pixabay.
+Este proyecto es un buscador de imágenes desarrollado con React  con Node y la API de Pixabay.
 
 ## Descripción del Proyecto 🚀
 
