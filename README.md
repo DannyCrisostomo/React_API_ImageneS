@@ -8,7 +8,7 @@ El Buscador de Imágenes permite a los usuarios buscar imágenes por palabras cl
 
 ## Captura de Pantalla 📸 
 
-![Captura de Pantalla](images/captura-pantalla.png)
+![Captura de Pantalla](https://github.com/DannyCrisostomo/React_API_Imagenes/blob/a0b29fc32462935fef07a28637c94c017f7ad9bd/img/pixabay.png)
 
 
 
